@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wordament (Pirate Version)</string>
+    <string name="new_game">New Game</string>
+    <string name="restore_game">Restore Game</string>
+	<string name="dialog_no_saved">There is no game saved.  If you can read this
+	message, something is likely broken.</string>
+	<string name="dialog_ok">OK</string>
+	<string name="dialog_cancel">Cancel</string>
+	<string name="dialog_loading">Loading</string>
+	<string name="menu_save_game">Save Game</string>
+	<string name="menu_end_game">Quit</string>
+	<string name="button_ok">OK</string>
+
+	<string name="about">About</string>
+
+	<string name="dialog_dict_select">Select Dictionary</string>
+
+	<string name="show_missed">Show Missed Words</string>
+	<string name="hide_missed">Hide Missed Words</string>
+
+	<string name="show_unique">Show Unique Words</string>
+	<string name="hide_unique">Hide Unique Words</string>
+
+</resources>
